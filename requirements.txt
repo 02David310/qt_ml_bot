@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+ta
+groq
+python-telegram-bot[job-queue]
+pytz
+xgboost
+scikit-learn
